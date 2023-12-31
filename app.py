@@ -11,7 +11,7 @@ import openai
 from streamlit import session_state as st_session_state
 
 # Set your OpenAI API key
-openai.api_key = "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"
+openai.api_key = "sk-nE"
 
 # Set app wide config
 st.set_page_config(
